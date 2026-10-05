@@ -1,0 +1,12 @@
+{
+  "validUser": {
+    "nome": "QA Automation User",
+    "password": "Test@123",
+    "administrador": "true"
+  },
+  "updatedUser": {
+    "nome": "QA Automation User Updated",
+    "password": "Updated@123",
+    "administrador": "false"
+  }
+}

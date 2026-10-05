@@ -1,0 +1,4 @@
+{
+  "dev": { "baseUrl": "https://serverest.dev" },
+  "qa": { "baseUrl": "" }
+}
